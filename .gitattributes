@@ -25,6 +25,7 @@ ensure esx_identity
 ensure gabz_backpacks
 ensure Dreads
 ensure esx_marker
+ensure zk
 
 ######### HUD #########
 ensure speedometer
