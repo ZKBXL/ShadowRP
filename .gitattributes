@@ -1,2 +1,222 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+######### ESSENTIEL #########
+ensure essentialmode
+ensure esplugin_mysql
+ensure es_extended
+ensure es_admin2
+ensure instance
+ensure vSync
+ensure bob74_ipl
+ensure progressBars
+ensure InteractSound
+ensure DiscordActionButtons
+ensure krz_gangsbuilder
+ensure discord
+
+######### UI #########
+ensure esx_menu_default
+ensure esx_menu_list
+ensure esx_menu_dialog
+
+######### EUP #########
+#ensure NativeUI
+#ensure eup-ui
+ensure eup-stream
+ensure esx_identity
+ensure gabz_backpacks
+ensure Dreads
+ensure esx_marker
+
+######### HUD #########
+ensure speedometer
+ensure d_loading
+ensure esx_status
+ensure esx_basicneeds
+ensure weapon_switch_anim
+ensure BlipsBuilder
+ensure esx_newui
+
+######## Mapping ########
+ensure [fivem_mz_hopital]
+ensure int_arcade
+ensure l247
+ensure ipl_arcade
+ensure gabz_mrpd
+ensure props_addons
+ensure patocheprison
+ensure Concession
+ensure bigbennyblackwhite
+ensure ParkingV
+ensure bloodsv2
+ensure vagosint
+ensure familiesint
+ensure lafa2k_modernhouse
+ensure bennylift
+ensure mafia-map
+ensure policetraining
+ensure burgershot
+ensure ballasint
+
+######### Admin #########
+ensure c_ban
+ensure c_wipe
+ensure c_admin2
+ensure c_admin
+ensure c_adminmode
+
+ensure discord-screenshot
+ensure screenshot-basic
+
+######### Compactage #########
+ensure mappings
+ensure RageUI
+ensure Scripts
+ensure JD_Logs
+ensure drogues
+
+######### EUP #########
+ensure vehicles
+
+######### Esx #########
+# Esx-Base #
+ensure esx_addonaccount #Argent Société
+ensure esx_addoninventory #Coffre inventaire société
+ensure esx_billing #Facture
+ensure esx_datastore #Coffre
+ensure esx_skin # Création perso
+ensure esx_service # Prise de service métiers
+ensure esx_society
+ensure skinchanger # Changement perso
+ensure esx_accessories
+ensure mask
+# Esx-Ajouts #
+ensure esx_vehiclelock
+ensure esx_teleportpads
+ensure esx_utils
+ensure esx_SodaMachine
+ensure esx_braquageBanque
+ensure esx_doorlock
+ensure essence
+ensure esx_vangelico_robbery
+ensure esx_cigarette
+ensure esx_leboncoin
+ensure esx_discord_bot
+ensure esx_rpchat
+ensure esx_jail_locker
+ensure esx_advanced_inventory
+ensure c_shop
+
+######### Voc #########
+ensure mumble-voip
+ensure esx_addons_gcphone
+ensure gcphone
+ensure rp-radio
+
+######### Jobs #########
+ensure c_deliveries
+ensure c_luxurytransport
+#### Agent immo ####
+ensure aProperty
+ensure esx_property
+ensure esx_realestateagentjob
+#### Concession ####
+ensure h4ci_concess
+#### Police ####
+ensure c_policejob
+ensure c_spike
+#### Sheriff ####
+ensure c_bcso_job
+ensure c_bcso_map
+ensure c_bcso_vehicule
+#### Ems ####
+ensure c_ambulance_job
+#### Unicorn ####
+ensure c_unicorn
+#### WeazelNews ####
+ensure c_weazelnews_job
+ensure c_weazelcam
+#### Mécano ####
+ensure c_mecano
+ensure c_mecano-garage
+ensure c_lscustom
+#### Bahamas ####
+ensure c_bahamas_job
+##### Vigneron #####
+ensure c_vigneronjob
+##### Taxi ######
+ensure c_taxi_job
+##### moto ######
+ensure c_bike
+##### burgershot #####
+ensure esx_burgerjob
+##### tabac #####
+ensure c_tabac
+
+
+##### Gang #####
+##### Vagos #####
+ensure c_vagosjob
+ensure c_VagosVoiture
+##### Bloods #####
+ensure c_bloodsjob
+ensure c_bloodsvoiture
+##### Families #####
+ensure c_familiesjob
+ensure c_FamiliesVoiture
+##### Ballas #####
+ensure c_BallasVoiture
+ensure c_ballasjob
+##### lostmc #####
+ensure esx_lostmc
+##### Ms13 #####
+ensure naben_ms13
+
+
+######### Scripts #########
+ensure jsfour-idcard
+ensure c_robbery
+ensure c_tattoos
+ensure barbershop
+ensure gofast
+ensure c_creator
+ensure c_prison
+ensure c_carry
+ensure esx_coffre
+ensure c_inventory
+ensure c_cardid
+ensure c_hostage
+ensure c_menuperso
+ensure esx_drugsbuilder
+
+ensure c_alertes
+ensure c_plainte
+ensure vb-banking
+ensure np-taskbar
+ensure dpemotes
+ensure dpclothing
+ensure h4ci_garage
+ensure c_selfdrive
+ensure c_watermark
+ensure c_zone
+ensure pNotify
+ensure connectqueue 
+ensure c_carwash
+ensure c_sit
+ensure c_blipinfo
+ensure c_autoecole
+ensure c_ammunation
+ensure c_sirene
+ensure esx_np_skinshop
+ensure c_loca
+ensure ReducedNPCs
+ensure TrafficAdjuster
+
+##################
+ensure es_mapper # Dev
+##################
+
+##Peds##
+ensure junior
+ensure rivia
+ensure samoan
+ensure snoop
+ensure [vehicule-modder]
